@@ -1,2 +1,2 @@
 # Practice-ecomwebsite-python
-This is an E-Commerce website for practising Pyhton using Django web framework.
+This is an E-Commerce website for practising Python using Django web framework.
